@@ -1,0 +1,26 @@
+📡 Backfill Entry — Wireless RF Engineering
+
+🏷 Context
+- Domain: Wireless / RF Engineering
+- Timeframe: 20+ years
+- Environment: Large-scale production networks (LTE/5G)
+
+🎯 Objective
+Ensure reliable customer connectivity by diagnosing, isolating, and resolving complex network issues across multiple layers.
+
+🔧 What I Actually Did
+- Analyzed RF performance data to identify root causes of dropped calls and poor handovers
+- Correlated drive-test logs, KPIs, and alarms to isolate failures
+- Tuned parameters and neighbor lists to stabilize mobility
+- Prioritized fixes based on customer impact and risk
+- Coordinated with cross-functional teams under production pressure
+
+🧠 Transferable Skills to QA & Cloud
+- System-level thinking
+- Structured troubleshooting
+- Evidence-based decision making
+- Clear technical communication
+- Production mindset
+
+📎 Why This Still Matters
+This background trained me to debug complex systems where failures are intermittent, data is noisy, and customer impact is real—directly applicable to software QA and cloud environments.
