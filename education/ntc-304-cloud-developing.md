@@ -80,3 +80,10 @@ This course directly informs how I design test cases and automation for cloud-ba
 ✔ Completed  
 ✔ All coursework and assessments passed  
 ✔ Cloud development concepts demonstrated
+
+---
+
+🔗 Where This Shows Up in My Work
+- API-Aware UI Testing: Playwright tests
+- Environment Configuration: playwright.config.ts
+- Cloud App Behavior Validation: dashboard project
