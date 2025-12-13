@@ -84,3 +84,10 @@ It ensured I was learning cloud **correctly**, not just memorizing tools.
 ✔ All coursework and assessments passed  
 ✔ Foundational cloud concepts demonstrated  
 
+---
+
+🔗 Where This Shows Up in My Work
+- Cloud Concepts: cloud-status-dashboard
+- Shared Responsibility Testing: learning-tracker/cloud/
+- Multi-Cloud Awareness: AWS / Azure / GCP projects
+
