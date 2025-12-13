@@ -76,3 +76,10 @@ This course set the mindset that quality is built into systems, not bolted on la
 ✔ Completed  
 ✔ All assessments passed  
 ✔ Concepts applied in later QA, CI, and cloud projects
+
+---
+
+🔗 Where This Shows Up in My Work
+- QA Test Design: learning-tracker/qa/
+- CI Quality Gates: testsplaywright (GitHub Actions)
+- SDLC Awareness: testsplaywright/.github/workflows
