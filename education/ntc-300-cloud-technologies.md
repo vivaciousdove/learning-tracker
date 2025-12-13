@@ -77,3 +77,10 @@ This course set the stage for deeper work in AWS, Azure, and GCP projects.
 ✔ Completed  
 ✔ All coursework and assessments passed  
 ✔ Practical cloud concepts demonstrated
+
+---
+
+🔗 Where This Shows Up in My Work
+- Cloud Test Targets: cloud-status-dashboard
+- Hosted CI Execution: GitHub Actions
+- IAM Awareness: cloud bootcamp projects
