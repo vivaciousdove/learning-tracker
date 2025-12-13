@@ -1,56 +1,78 @@
-🎓 Backfill Entry — BSA 385: Introduction to Software Engineering
+📘 BSA 385 — Introduction to Software Engineering
 
-📍 Institution  
-University of Phoenix
+🏫 Course Context  
+Institution: University of Phoenix  
+Course Code: BSA 385  
+Title: Introduction to Software Engineering  
+Status: Completed  
+Timeframe: 2024  
+Method: Online coursework with applied case studies and analysis  
 
-📅 Timeframe  
-Completed — 2024
-
-🎯 Course Focus  
-Foundational concepts of software engineering with emphasis on the Software Development Life Cycle (SDLC), requirements analysis, testing, and system maintenance.
-
-This course established the baseline mindset used throughout my QA, cloud, and CI/CD work.
-
----
-
-🧭 What I Actually Did
-
-- Studied the full Software Development Life Cycle (planning → design → development → testing → deployment → maintenance)
-- Analyzed business requirements and translated them into technical considerations
-- Explored the role of testing within software projects (unit, integration, system, acceptance)
-- Evaluated real-world software failures and lessons learned
-- Practiced documenting technical concepts clearly for non-technical stakeholders
-- Worked through case studies involving scope, risk, and quality trade-offs
+🎯 Course Objective  
+Build foundational understanding of how software is planned, built, tested, deployed, and maintained, with emphasis on quality, requirements, and lifecycle thinking.
 
 ---
 
-🧪 QA & Engineering Skills Practiced
+🧠 What I Actually Learned (Beyond Theory)  
+This course focused on understanding *how software really gets delivered*, not just writing code.
 
-- Requirements analysis and traceability
-- Understanding where QA fits in SDLC
-- Functional vs non-functional requirements
-- Defect prevention vs defect detection
-- System thinking across teams (dev, QA, ops)
-- Communication between technical and business roles
+Key outcomes included:
+
+- Understanding the full Software Development Life Cycle (SDLC)
+- Translating business requirements into technical and quality considerations
+- Recognizing where testing fits into each phase of development
+- Distinguishing functional vs. non-functional requirements
+- Evaluating trade-offs between speed, cost, scope, and quality
+- Analyzing real-world software failures and root causes
+- Communicating technical concepts in business-friendly language
 
 ---
 
-🔗 How This Course Connects Forward
+🛠️ Practical Work & Artifacts  
+Hands-on and analytical work included:
 
-This course directly supports:
+- SDLC case studies and lifecycle comparisons
+- Requirements analysis exercises
+- Software quality and defect prevention discussions
+- Risk and scope evaluation scenarios
+- Written technical explanations for non-technical audiences
+- Critical reviews of software project outcomes
 
-- Manual QA test case design
-- Acceptance criteria interpretation
-- CI/CD quality gates and testing stages
+The emphasis was on *thinking like an engineer*, not memorizing definitions.
+
+---
+
+🧩 Real-World Application  
+This coursework directly supports my work in:
+
+- Manual QA test design and acceptance criteria validation
+- Understanding defects in context (requirements vs implementation vs environment)
+- CI/CD pipeline quality stages
 - Cloud project planning and validation
-- Evidence-based testing decisions
-
-BSA 385 served as the conceptual foundation that later hands-on work (QA internship, Playwright CI pipelines, cloud deployments) built upon.
+- Communicating QA findings to stakeholders clearly and defensibly
 
 ---
 
-🧩 Why It Matters
+🧠 Skills Practiced  
+Software Development Life Cycle (SDLC)  
+Requirements Analysis  
+Quality Assurance Fundamentals  
+System Thinking  
+Technical Communication  
+Risk & Tradeoff Awareness  
 
-This course explains *why* quality matters — not just *how* to test.
+---
 
-It anchors my learning tracker by showing a clear progression from theory → practice → evidence.
+🔗 Why This Matters in My Learning Tracker  
+BSA 385 forms the **conceptual foundation** behind everything else in my tracker.
+
+It explains *why* testing, automation, and CI exist — not just *how* to run them.
+
+This course set the mindset that quality is built into systems, not bolted on later, and it directly informs how I approach QA, cloud deployments, and evidence-based validation today.
+
+---
+
+✅ Completion Status  
+✔ Completed  
+✔ All assessments passed  
+✔ Concepts applied in later QA, CI, and cloud projects
