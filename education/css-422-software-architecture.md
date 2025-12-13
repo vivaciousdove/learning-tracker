@@ -79,3 +79,9 @@ This course complements my background in:
 ✔ All assessments passed  
 ✔ Architecture artifacts produced and reviewed  
 
+---
+
+🔗 Where This Shows Up in My Work
+- Cross-Browser Strategy: testsplaywright/projects
+- Failure Mode Thinking: learning-tracker/qa/
+- Cloud System Design: cloud-status-dashboard
