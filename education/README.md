@@ -4,6 +4,8 @@ This folder documents completed coursework with a focus on **practical skills, a
 
 All courses listed below are **completed and passed**.
 
+Each course links directly to QA, Cloud, or CI projects where concepts are applied in practice.
+
 ---
 
 ## 📘 Completed Courses (10)
