@@ -83,3 +83,10 @@ This course strengthened my confidence operating *inside* the systems I test and
 ✔ All labs and assessments passed  
 ✔ Command-line proficiency demonstrated  
 
+---
+
+🔗 Where This Shows Up in My Work
+- CI Runners (Linux): GitHub Actions
+- Node.js Tooling: testsplaywright/package.json
+- CLI-Based Debugging: Playwright trace viewer
+
