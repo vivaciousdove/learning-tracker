@@ -79,3 +79,10 @@ This knowledge sharpens my ability to design **better test cases**, isolate root
 ✔ Completed  
 ✔ All coursework and assessments passed  
 ✔ Network and web service concepts demonstrated
+
+---
+
+🔗 Where This Shows Up in My Work
+- UI/API Behavior Testing: Playwright specs
+- Web Request Flow Debugging: trace viewer
+- Network Root Cause Analysis: learning-tracker/wireless-rf/
