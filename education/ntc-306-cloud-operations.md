@@ -81,3 +81,10 @@ This course directly informs how I design tests, automation, and CI checks that 
 ✔ Completed  
 ✔ All coursework and assessments passed  
 ✔ Cloud operations concepts demonstrated
+
+---
+
+🔗 Where This Shows Up in My Work
+- CI Observability: GitHub Actions logs & artifacts
+- Failure Debugging: traces, screenshots, videos
+- Production-Mindset Testing: testsplaywright
