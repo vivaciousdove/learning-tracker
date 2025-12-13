@@ -1,14 +1,13 @@
-# 📘 Learning Tracker
+📘 Learning Tracker
 
-This repository tracks my hands-on learning across QA, Cloud, and Programming.
-It focuses on **practice, repetition, and evidence** — not just theory.
+This repository tracks my **hands-on learning and applied work** across QA, Cloud, and Programming.
+The focus is on **practice, repetition, and evidence** — not theory alone.
 
-Think of this as a season-long stat sheet, not a highlight claim.
+Think of this as a **season-long stat sheet**, not a highlight claim.
 
 ---
 
-## 🏈 Current Focus Areas
-
+🏈 Current Focus Areas
 - Software Quality Assurance (Manual + Automation)
 - Playwright UI Automation
 - CI/CD with GitHub Actions
@@ -16,17 +15,30 @@ Think of this as a season-long stat sheet, not a highlight claim.
 - Python, JavaScript, SQL
 
 ---
-## ⬛ Learning Foundation (Four Pillars)
 
-My learning is built on four reinforcing pillars:
+⬛ Learning Foundation — Four Pillars
 
-- **Cloud Bootcamp:** Hands-on infrastructure deployment across AWS, Azure, and GCP  
-- **RTQ Internship:** Production QA testing within Agile teams  
-- **University Coursework:** SDLC, project planning, and technical communication  
-- **Wireless RF Engineering:** 20+ years of system-level troubleshooting and reliability work  
+My learning is built on four reinforcing pillars, each with **verifiable artifacts**:
 
-Together, these form a complete foundation for QA and Cloud roles.
+### ☁️ Cloud Bootcamp
+Hands-on infrastructure and automation projects across AWS, Azure, and GCP  
+→ Evidence: `cloud/`
+
+### 🧪 RTQ Internship
+Production QA testing in Agile teams (test cases, execution, defects, validation)  
+→ Evidence: `qa/`
+
+### 🎓 University Coursework
+Completed coursework covering SDLC, architecture, project planning, cloud, and operations  
+→ Evidence: `education/`
+
+### 📡 Wireless RF Engineering
+20+ years of system-level troubleshooting, reliability analysis, and root-cause investigation  
+→ Evidence: `wireless-rf/`
+
+Together, these pillars form a **complete, applied foundation** for QA, Cloud, and DevOps-adjacent roles.
 
 ---
 
-## 📁 Repository Structure (Evolving)
+📁 Repository Structure (Evolving)
+Each folder contains **written backfills, artifacts, or links** that show how concepts were applied in practice.
