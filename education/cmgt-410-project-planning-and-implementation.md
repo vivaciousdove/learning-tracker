@@ -80,3 +80,10 @@ This course connects directly to my PMP mindset and real-world delivery experien
 ✔ All assessments passed  
 ✔ Applied concepts to real technical projects  
 
+---
+
+🔗 Where This Shows Up in My Work
+- QA Estimation & Scope: learning-tracker/qa/
+- CI Pipeline Design: testsplaywright/.github/workflows
+- Evidence Organization: testsplaywright/evidence/
+
