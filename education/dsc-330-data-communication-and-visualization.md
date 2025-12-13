@@ -40,3 +40,9 @@ Quality engineering and cloud work produce large amounts of data. This course sh
 - Highlight what matters instead of overwhelming stakeholders
 - Communicate risk, failure impact, and trends effectively
 - Turn test results and metrics into decisions, not noise
+
+---
+🔗 Where This Shows Up in My Work
+- Playwright HTML Reports: testsplaywright/playwright-report
+- CI Evidence Screenshots: testsplaywright/evidence/
+- Dashboard Validation: cloud-status-dashboard
