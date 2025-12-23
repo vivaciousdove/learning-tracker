@@ -33,7 +33,7 @@ Completed coursework covering SDLC, architecture, project planning, cloud, and o
 → Evidence: `education/`
 
 ### 📡 Wireless RF Engineering
-20+ years of system-level troubleshooting, reliability analysis, and root-cause investigation  
+Multiple years of system-level troubleshooting, reliability analysis, and root-cause investigation  
 → Evidence: `wireless-rf/`
 
 Together, these pillars form a **complete, applied foundation** for QA, Cloud, and DevOps-adjacent roles.
